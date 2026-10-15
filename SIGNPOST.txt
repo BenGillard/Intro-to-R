@@ -1,0 +1,17 @@
+***********************************
+
+If its your first time using R. Go to Intro_to_R_2023_Walkthrough.html. We will go through this together.
+
+***********************************
+
+If you have previous experience with coding. Go to Materials > intro_R.html. Work through this document by yourself or in a group at your own pace. Use troubleshooting section, google your errors, and/or ask each other for help. Come and see Ben if you're still stuck.
+
+***********************************
+
+If you are comfortable with the basics of R. Go to Materials > RNAseqTutorial.html or Materials > ProteomicsTutorial. Work through this document by yourself or in a group at your own pace. Use troubleshooting section, google your errors, and/or ask each other for help. Come and see Ben if you're still stuck.
+
+***********************************
+
+If you just want to learn how to make pretty plots. Go to Materials > ggplot2_Tutorial.html. Work through this document by yourself or in a group at your own pace. Use troubleshooting section, google your errors, and/or ask each other for help. Come and see Ben if you're still stuck.
+
+***********************************
