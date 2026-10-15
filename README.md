@@ -1,6 +1,6 @@
 ***********************************
 
-If its your first time using R. Go to Intro_to_R_2023_Walkthrough.html. We will go through this together.
+If its your first time using R. Go to Intro_to_R__Walkthrough.html. We will go through this together.
 
 ***********************************
 
